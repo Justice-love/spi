@@ -1,0 +1,2 @@
+META-INF/services/org.eddy.SayHello
+org/eddy/service/Say.class
